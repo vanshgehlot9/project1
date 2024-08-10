@@ -1,0 +1,6 @@
+/* Style the paragraph element */
+p {
+    color: #00698f; /* Set the text color to a blue shade */
+    font-size: 18px; /* Set the font size to 18 pixels */
+    text-align: center; /* Center the text horizontally */
+  }
